@@ -12,10 +12,16 @@ body {
 .button-container {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Space between the buttons and text */
+    gap: 20px; /* Space between the logo, text, and buttons */
     width: 90%; /* Full width with some padding */
     max-width: 400px; /* Limit maximum width */
     text-align: center; /* Center-align the text */
+}
+
+.logo {
+    width: 450px; /* Adjust the width of the logo as needed */
+    height: auto;
+    margin: 0 auto -230px; /* Center the logo horizontally */
 }
 
 h3 {
