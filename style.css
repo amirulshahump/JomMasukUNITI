@@ -17,13 +17,13 @@ body {
     max-width: 400px; /* Limit maximum width */
     text-align: center; /* Center-align the text */
     align-items: center; /* Center-align items vertically */
-    margin-top: -400px; /* Adjust vertical position */
+    margin-top: -200px; /* Adjust vertical position */
 }
 
 .logo {
-    width: 450px; /* Adjust the width of the logo as needed */
+    width: 420px; /* Adjust the width of the logo as needed */
     height: auto;
-    margin-bottom: -250px; /* Add space below the logo */
+    margin-bottom: -220px; /* Add space below the logo */
 }
 
 h3 {
