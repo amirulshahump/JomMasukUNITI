@@ -32,6 +32,16 @@ h3 {
     color: #333;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(148, 0, 0);
+    color: white;
+    text-align: center;
+ }
+
 button {
     background-color: #18f98f;
     border: none;
