@@ -21,9 +21,9 @@ body {
 }
 
 .logo {
-    width: 420px; /* Adjust the width of the logo as needed */
+    width: 350px; /* Adjust the width of the logo as needed */
     height: auto;
-    margin-bottom: -220px; /* Add space below the logo */
+    margin-bottom: -180px; /* Add space below the logo */
 }
 
 h3 {
